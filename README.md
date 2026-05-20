@@ -89,19 +89,19 @@ across India.
 
 ### 2. State & District Analysis
 
-![State Analysis](State & District Analysis.png)
+![State Analysis](State_district_analysis.png)
 
 ---
 
 ### 3. Crop Analysis
 
-![Crop Analysis](crop_analysis.png)
+![Crop Analysis](Crop_analysis.png)
 
 ---
 
 ### 4. Trends & Insurance Companies
 
-![Trends](trends_insurance.png)
+![Trends](Trends_insurance.png)
 
 ---
 
