@@ -10,7 +10,7 @@ distribution, and government subsidy allocation across
 Indian states, crops, and seasons from 2018 to 2022.
 
 **Personal motivation:** I come from a farming family in 
-Telangana and have seen firsthand how crop insurance works 
+Maharashtra and have seen firsthand how crop insurance works 
 at the ground level. This project connects my personal 
 background with my data analytics skills.
 
@@ -29,7 +29,7 @@ across India.
 ---
 
 ## Dataset
-- **Source:** Government of India PMFBY open data portal
+- **Source:** Kaggle
 - **Raw records:** 29,999 rows × 62 columns
 - **After cleaning:** 20,495 rows × 22 columns (PMFBY only)
 - **Coverage:** 2018–2022 | 30+ states | 100+ crops
