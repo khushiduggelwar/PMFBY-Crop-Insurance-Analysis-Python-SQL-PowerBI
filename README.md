@@ -79,9 +79,29 @@ across India.
 ---
 
 ## Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here)*
-> To add: drag your dashboard screenshot into this 
-> README on GitHub
+## Dashboard Preview
+
+### 1. Executive Overview
+
+![Overview](Overview.png)
+
+---
+
+### 2. State & District Analysis
+
+![State Analysis](State district_analysis.png)
+
+---
+
+### 3. Crop Analysis
+
+![Crop Analysis](crop_analysis.png)
+
+---
+
+### 4. Trends & Insurance Companies
+
+![Trends](trends_insurance.png)
 
 ---
 
