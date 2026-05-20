@@ -42,7 +42,6 @@ across India.
 | Python (Pandas, NumPy) | Data cleaning & transformation |
 | PostgreSQL | Business question analysis (SQL) |
 | Power BI (DAX) | Dashboard & visualizations |
-| Excel (Power Query) | ETL & data validation |
 
 ---
 
