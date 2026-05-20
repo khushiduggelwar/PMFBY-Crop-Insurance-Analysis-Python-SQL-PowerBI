@@ -89,7 +89,7 @@ across India.
 
 ### 2. State & District Analysis
 
-![State Analysis](State district_analysis.png)
+![State Analysis](State & District Analysis.png)
 
 ---
 
