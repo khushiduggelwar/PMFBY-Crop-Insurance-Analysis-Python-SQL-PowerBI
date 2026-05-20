@@ -88,9 +88,9 @@ across India.
 ## Project Structure
 PMFBY-Crop-Insurance-Analysis/
 ├── data/
-│   └── pmfby_final_analytical_dataset.csv
+│   └── PMFBY coverage.csv
 ├── python/
-│   └── pmfby_cleaning.ipynb
+│   └── pmfby_analysis.py
 ├── sql/
 │   └── business_questions.sql
 ├── dashboard/
