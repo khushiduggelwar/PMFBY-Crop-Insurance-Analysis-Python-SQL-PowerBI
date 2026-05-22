@@ -98,7 +98,7 @@ across India.
 
 ### 3. Crop Analysis
 
-![Crop Analysis](Crop_analysis.png)
+![Crop Analysis](Crop_Analysis.png)
 
 ---
 
