@@ -104,7 +104,7 @@ across India.
 
 ### 4. Trends & Insurance Companies
 
-![Trends & Insurance Companies](Trends_&_Insurance_Companies.png)
+![Trends & Insurance Companies](Trends_&_insurance_companies.png)
 
 ---
 
