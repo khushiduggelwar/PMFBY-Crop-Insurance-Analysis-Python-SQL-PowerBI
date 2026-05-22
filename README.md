@@ -52,7 +52,7 @@ across India.
    total_subsidy, govt_subsidy_pct, premium_to_insured_pct
 3. **SQL Analysis** — 12 business questions from basic 
    to advanced (including LAG() for YoY trends)
-4. **Dashboard** — 4-page Power BI report with slicers, 
+4. **Dashboard** — 5-page Power BI report with slicers, 
    drill-through, DAX measures
 
 ---
@@ -80,16 +80,19 @@ across India.
 
 ## Dashboard Preview
 ## Dashboard Preview
+### 1. Project Overview
+
+![Project Overview](Project_overview.png)
 
 ### 1. Executive Overview
 
-![Overview](Overview.png)
+![Executive_Overview](Executive_overview.png)
 
 ---
 
 ### 2. State & District Analysis
 
-![State Analysis](State_district_analysis.png)
+![State & District Analysis](State_&_district_analysis.png)
 
 ---
 
@@ -101,7 +104,7 @@ across India.
 
 ### 4. Trends & Insurance Companies
 
-![Trends](Trends_insurance.png)
+![Trends & Insurance Companies](Trends_&_Insurance_Companies.png)
 
 ---
 
@@ -114,7 +117,7 @@ PMFBY-Crop-Insurance-Analysis/
 ├── sql/
 │   └── business_questions.sql
 ├── dashboard/
-│   └── PMFBY_Insurance_Analysis_Dashboard.pbix
+│   └── PMFBY_Crop_Insurance_Analysis_Dashboard.pbix
 └── README.md
 
 ---
