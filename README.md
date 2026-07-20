@@ -79,7 +79,6 @@ across India.
 ---
 
 ## Dashboard Preview
-## Dashboard Preview
 ### 1. Project Overview
 
 ![Project Overview](Project_overview.png)
