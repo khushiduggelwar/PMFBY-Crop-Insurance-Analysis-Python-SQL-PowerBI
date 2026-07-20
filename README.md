@@ -83,25 +83,25 @@ across India.
 
 ![Project Overview](Project_overview.png)
 
-### 1. Executive Overview
+### 2. Executive Overview
 
 ![Executive_Overview](Executive_overview.png)
 
 ---
 
-### 2. State & District Analysis
+### 3. State & District Analysis
 
 ![State & District Analysis](State_&_district_analysis.png)
 
 ---
 
-### 3. Crop Analysis
+### 4. Crop Analysis
 
 ![Crop Analysis](Crop_Analysis.png)
 
 ---
 
-### 4. Trends & Insurance Companies
+### 5. Trends & Insurance Companies
 
 ![Trends & Insurance Companies](Trends_&_insurance_companies.png)
 
