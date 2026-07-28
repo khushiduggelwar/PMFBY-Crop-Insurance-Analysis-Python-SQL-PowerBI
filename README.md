@@ -85,7 +85,7 @@ across India.
 
 ### 2. Executive Overview
 
-![Executive_Overview](Executive_overview.png)
+![Executive_Overview]()
 
 ---
 
